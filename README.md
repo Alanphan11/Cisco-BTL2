@@ -10,7 +10,7 @@ In this project, I have implemented almost the requirements, include:
 - Firewall to avoid intruders from outside the network (Integrate with NAT)
 - Load Balancing
 - DS - LAM
-- 
+
 However, there are some other requirements that haven't been included in the file:
 
 - VPN Configuration
