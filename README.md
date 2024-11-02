@@ -7,10 +7,10 @@ In this assignment, you are required to create a network for the hospital using 
 In this project, I have implemented almost the requirements, include:
 
 - Subnets for Main Site and 2 Auxiliary Sites
-- Firewall to avoid intruders from outside the network
+- Firewall to avoid intruders from outside the network (Integrate with NAT)
 - Load Balancing
 - DS - LAM
-
+- 
 However, there are some other requirements that haven't been included in the file:
 
 - VPN Configuration
