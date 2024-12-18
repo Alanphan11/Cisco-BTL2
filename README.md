@@ -18,6 +18,6 @@ However, there are some other requirements that haven't been included in the fil
 
 The reference used to implement this project had been included in the report, you can observe it at the end of the report.
 
-I was graded 9.5 for this assignment, by Mr. Thìn.
+I was graded 9.5 for this assignment.
 
 Good luck!
